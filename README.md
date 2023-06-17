@@ -19,10 +19,10 @@ Python 3.0 or higher
 
 MAPE: 10.7686\
 RMSE: 188.373\
-RMSE (MinMax Scaled): 0.132328\
+RMSE (MinMax Scaled): 0.132328
 <p>For the SARIMA model, the evaluation metrics on the test set are as follows:</p>
 
 MAPE: 10.5814\
 RMSE: 219.644\
-RMSE (MinMax Scaled): 0.275274\
+RMSE (MinMax Scaled): 0.275274
 <p>These metrics demonstrate the performance of each model in terms of accuracy and forecasting capability. The RMSE (MinMax Scaled) provides a comparison of the models' performance after scaling the data.</p>
