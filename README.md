@@ -29,6 +29,6 @@ RMSE (MinMax Scaled): 0.275274
 
 Train Score: 4.11 RMSE\
 Test Score: 4.49 RMSE\
-* LSTM forecast
+LSTM forecast
 ![download](https://github.com/suryapraneeth18/Forecasting-Vehicle-Sales/assets/75241973/9444e856-df04-4e75-a428-79523fc10b4c)
 <p>These metrics demonstrate the performance of each model in terms of accuracy and forecasting capability. The RMSE (MinMax Scaled) provides a comparison of the models' performance after scaling the data.</p>
